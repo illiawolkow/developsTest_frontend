@@ -4,8 +4,6 @@ This project is a management application for the Spy Cat Agency (SCA), allowing 
 
 ## Frontend (Next.js)
 
-(Details for the Next.js frontend will be added here once that part is developed.)
-
 The frontend is a Next.js application for managing Spy Cats.
 
 **Spy Cats Management Page Requirements:**
@@ -15,8 +13,6 @@ The frontend is a Next.js application for managing Spy Cats.
 - Delete option to remove a spy cat.
 
 ### Setup and Running the Frontend
-
-(Instructions will be provided here.)
 
 1.  **Navigate to the frontend directory:**
     ```bash
@@ -52,4 +48,3 @@ The frontend is a Next.js application for managing Spy Cats.
 
 ---
 
-This README provides a basic outline. Further details on specific configurations, deployment, or more complex aspects would be added for a production application. 
